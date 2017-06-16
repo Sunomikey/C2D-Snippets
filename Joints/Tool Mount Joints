@@ -1,0 +1,7 @@
+Here is a list of joint names that are used by the Pioneer. Placing these on your Tools will make the pioneer
+automatically try to mount with existing body joints.
+
+Tool Mount Arm FG   -The hand in the foreground
+Tool Mount Arm BG   -The hand in the background
+Tool Mount Shoulder -Shoulder for things like Rocket launchers or shoulder mounted items
+Tool Mount Back     -Joint that when the controller presses Q to store something on its back will mount to.
